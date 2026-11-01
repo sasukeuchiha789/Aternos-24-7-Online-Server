@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SASUKE KA BETA",
+    "username": "SoloCloudHosting",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "AIMBOTSSS.aternos.me",
-    "port": 30984,
-    "version": "1.21.11",
+    "ip": "solocloud.site",
+    "port": 25565,
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
+      "enabled": true,
       "password": "SoloPlayz"
     },
     "anti-afk": {
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "SASUKE IS YOUR FATHER",
-        "ALWAYS RESPECT SASUKE FATHER"
+        "Subscribe to SoloPlayz!",
+        "Want Cheap Premium Server? https://discord.gg/VRMUnDkf95"
       ]
     },
     "chat-log": true,
